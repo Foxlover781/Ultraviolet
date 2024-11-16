@@ -42,3 +42,8 @@
 		"set-cookie-parser": "^2.7.1"
 	}
 }
+{
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+}
